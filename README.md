@@ -2,7 +2,7 @@
 
 Introduction: This program was developed as a work in the discipline of Embedded Systems Programming at UFMG - Prof. Ricardo de Oliveira Duarte - Department of Electronic Engineering. The program was developed and tested with Stm32F401RE (Nucleo 64 board).
 
-O intuito desse programa é mostrar de maneira didática a utilidade e importância da unidade de cálculo do CRC. O programa foi desenvolvido para a placa Stm32F401RE (Nucleo 64) e se trata de um SPI master. Basicamente, o programa cria um vetor de dados, calcula o CRC para esse vetor (utilizando a unidade de cálculo de CRC, disponível nos microcontroladores STM32), insere o CRC ao final da mensagem e a envia, via SPI, para um slave, cujo código está disponível em https://github.com/vcaitite/SPI_slave_with_CRC_example.
+O intuito desse exemplo (localizado mais especificamente em  Core/Src/main.c) é mostrar de maneira didática a utilidade e importância da unidade de cálculo do CRC. O programa foi desenvolvido para a placa Stm32F401RE (Nucleo 64) e se trata de um SPI master. Basicamente, o programa cria um vetor de dados, calcula o CRC para esse vetor (utilizando a unidade de cálculo de CRC, disponível nos microcontroladores STM32), insere o CRC ao final da mensagem e a envia, via SPI, para um slave, cujo código está disponível em https://github.com/vcaitite/SPI_slave_with_CRC_example.
 
 Os passos executados por esse programa são:
 
