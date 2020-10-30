@@ -21,3 +21,9 @@ Os passos executados por esse programa são:
 [7.] Atualização do vetor de dados.
 
 [8.] Volta para o item 4.
+
+Para mais informações entre em contato com os desenvolvedores:
+
+Amanda Alkmim Rezende Teixeira: amandaarteixeira@hotmail.com e Vitor Gabrie Reis Caitite: vitorgabriel1000@hotmail.com.
+
+
